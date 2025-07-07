@@ -17,9 +17,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo" />
   </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo" />
-  </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo" />
@@ -78,7 +75,7 @@
       <img width="390" src="https://github-readme-stats.vercel.app/api?username=Ali-Aljufairi&show_icons=true&theme=transparent&border_color=5f8bec&hide_border=true&title_color=E640EC&text_color=5F8BEC&icon_color=E640EC" />
     </a>
     <a href="https://github.com/Ali-Aljufairi">
-      <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Aljufairi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=E640EC&theme=transparent&text_color=81a0e4&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=5f8bec&hide_border=true&" />
+      <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Aljufairi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda,Jupyter+Notebook&title_color=E640EC&theme=transparent&text_color=81a0e4&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=5f8bec&hide_border=true&" />
     </a>
   </div>
 </div>
