@@ -73,12 +73,6 @@
   <a href="https://www.linkedin.com/in/ali-aljufairi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://stackoverflow.com/users/16568780/ali-redha" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo" />
-  </a>
-  <a href="https://wa.me/97338406875?text=Hello%20Ali Redha,%20" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
-  </a>
   <a href="https://streamelements.com/lasthunter657/tip" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo" />
   </a>
@@ -87,22 +81,17 @@
   <br><br><br>
 
 <h2 align="center">⚡ Stats ⚡ </h2>
- 
-<p align="center">
-  <div align="center">
-    <a href="https://github.com/Ali-Aljufairi" title="Go to Source">
-      <img align="left" width="390" src="https://github-readme-streak-stats-kappa-five.vercel.app?user=Ali-Aljufairi&theme=react&hide_border=true&border_radius=&fire=EB2DD3&background=FFFFFF00&currStreakNum=E640EC&sideLabels=5F8BEC&sideNums=5F8BEC&ring=5F8BEC&currStreakLabel=5F8BEC&stroke=E640EC" alt="Ali-Aljufairi" />
-    </a>
+
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=Ali-Aljufairi&show_icons=true&theme=transparent&border_color=5f8bec&hide_border=true&title_color=E640EC&text_color=5F8BEC&icon_color=E640EC" />
+      <img width="390" src="https://github-readme-stats.vercel.app/api?username=Ali-Aljufairi&show_icons=true&theme=transparent&border_color=5f8bec&hide_border=true&title_color=E640EC&text_color=5F8BEC&icon_color=E640EC" />
     </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align="center">
     <a href="https://github.com/Ali-Aljufairi">
-      <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Aljufairi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=E640EC&theme=transparent&text_color=81a0e4&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=5f8bec&hide_border=true&" />
+      <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Aljufairi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=E640EC&theme=transparent&text_color=81a0e4&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=5f8bec&hide_border=true&" />
     </a>
   </div>
+</div>
   <br>
 </p>
 
