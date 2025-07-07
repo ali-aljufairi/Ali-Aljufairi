@@ -43,7 +43,7 @@
   </a>
 
   <a href="https://github.com/" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/github-icon-256x249-eb1fu3cu.png" height="30" width="32" alt="github logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo" />
   </a>
 
   <a href="https://www.mysql.com/" target="_blank">
