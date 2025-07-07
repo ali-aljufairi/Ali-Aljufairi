@@ -1,4 +1,3 @@
-<!-- hello -->
 <p align ="center">
 <a href="https://github.com/Ali-Aljufairi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=10000000000000000000000&color=E852AF&center=true&random=false&width=435&lines=I'm+Ali+Redha" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5F8BEC&center=true&random=true&width=435&lines=A+Cloud+Enthusiast;A+Curious+Person+;A+Github+Obsessed+person;A+Book+Worm;A+Shortcuts+lover;A+Vim+User;A+Vscode+Advocate" alt="Typing SVG" /></a>
