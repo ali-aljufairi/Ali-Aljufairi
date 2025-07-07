@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ali-Aljufairi&label=Profile%20views&color=E852AF&style=for-the-badge" alt="Ali-Aljufairi" /> </p>
 
 
-<img align="right" height="133" src="https://bit.ly/3G6Pin0" />
 
 
 <div class="icon-container" style="display: flex;">
