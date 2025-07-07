@@ -45,13 +45,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo" />
   </a>
 
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo" />
-  </a>
 
-  <a href="https://www.tensorflow.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" width="42" alt="tensorflow logo" />
-  </a>
 
 <a href="https://react.dev/"></a>
 
@@ -63,9 +57,6 @@
     <img src=".github/workflows/aws.png" height="30" width="42" alt="php logo" />
   </a>
 
-  <a href="https://docs.amplify.aws/">
-    <img src=".github/workflows/amplify.png" height="30" width="42" alt="php logo" />
-  </a>
 </div>
 
 <div align="left">
