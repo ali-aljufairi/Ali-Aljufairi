@@ -1,4 +1,4 @@
-<!-- hello -->
+
 <p align ="center">
 <a href="https://github.com/Ali-Aljufairi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=10000000000000000000000&color=E852AF&center=true&random=false&width=435&lines=I'm+Ali+Redha" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5F8BEC&center=true&random=true&width=435&lines=A+Cloud+Enthusiast;A+Curious+Person+;A+Github+Obsessed+person;A+Book+Worm;A+Shortcuts+lover;A+Vim+User;A+Vscode+Advocate" alt="Typing SVG" /></a>
@@ -89,13 +89,7 @@
 <h2 align="center">⚡ Stats ⚡ </h2>
  
 <p align="center">
-  <div align="center">
-    <a href="https://github.com/Ali-Aljufairi" title="Go to Source">
-      <img align="left" width="390" src="https://github-readme-streak-stats-kappa-five.vercel.app?user=Ali-Aljufairi&theme=react&hide_border=true&border_radius=&fire=EB2DD3&background=FFFFFF00&currStreakNum=E640EC&sideLabels=5F8BEC&sideNums=5F8BEC&ring=5F8BEC&currStreakLabel=5F8BEC&stroke=E640EC" alt="Ali-Aljufairi" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=Ali-Aljufairi&show_icons=true&theme=transparent&border_color=5f8bec&hide_border=true&title_color=E640EC&text_color=5F8BEC&icon_color=E640EC" />
-    </a>
+
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align="center">
